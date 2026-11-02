@@ -81,8 +81,8 @@ To reproduce the exploratory data analysis:
    python -m pip install -r requirements.txt
    ```
 
-3. Open `notebooks/ecommerce_eda.ipynb` in Jupyter Notebook or Visual Studio Code.
-4. Ensure the three source CSV files are available in the `data/` directory.
+3. Open `03_python/ecommerce_eda.ipynb` in Jupyter Notebook or Visual Studio Code.
+4. Ensure the three source CSV files are available in the `01_data/` directory.
 5. Run all notebook cells in sequence.
 
 The analysis uses completed USD orders from 2021–2025 for consistent financial comparisons.
