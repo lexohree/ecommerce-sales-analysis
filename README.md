@@ -21,9 +21,9 @@ The project combines Python for exploratory data analysis, SQL for querying and 
 ## Tools & Technologies
 - **Python:** pandas, NumPy, Matplotlib
 - **SQL:** MySQL
-- **Dataa Visualization:** Tableau Public
+- **Data Visualization:** Tableau Public
 - **Development Environment:** Visual Studio Code, Jupyter Notebook
-- **Version COntrol:** Git and GitHub
+- **Version Control:** Git and GitHub
 
 *Project status: In progress — Python exploratory data analysis completed; SQL analysis, Tableau dashboards, and final report are being developed.*
 
