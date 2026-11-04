@@ -1,4 +1,3 @@
-
 # Python virtual environment
 .venv/
 
@@ -11,3 +10,7 @@ __pycache__/
 
 # macOS files
 .DS_Store
+
+# Environment variables and sensitive configuration
+.env
+.env.*
